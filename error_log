@@ -1,0 +1,9 @@
+[13-Oct-2023 17:17:08 UTC] PHP Notice:  Undefined variable: yt in /home/crazysm1/public_html/app/demo1/index.php on line 221
+[13-Oct-2023 17:17:08 UTC] PHP Notice:  Undefined variable: yt in /home/crazysm1/public_html/app/demo1/index.php on line 222
+[13-Oct-2023 17:18:14 UTC] PHP Parse error:  syntax error, unexpected '$yt' (T_VARIABLE) in /home/crazysm1/public_html/app/demo1/index.php on line 10
+[13-Oct-2023 17:18:17 UTC] PHP Parse error:  syntax error, unexpected '$yt' (T_VARIABLE) in /home/crazysm1/public_html/app/demo1/index.php on line 10
+[13-Oct-2023 17:18:47 UTC] PHP Notice:  Undefined variable: yt in /home/crazysm1/public_html/app/demo1/index.php on line 221
+[13-Oct-2023 17:18:47 UTC] PHP Notice:  Undefined variable: yt in /home/crazysm1/public_html/app/demo1/index.php on line 222
+[13-Oct-2023 17:23:28 UTC] PHP Parse error:  syntax error, unexpected '$yt' (T_VARIABLE) in /home/crazysm1/public_html/app/demo1/index.php on line 10
+[13-Oct-2023 17:23:30 UTC] PHP Parse error:  syntax error, unexpected '$yt' (T_VARIABLE) in /home/crazysm1/public_html/app/demo1/index.php on line 10
+[13-Oct-2023 17:24:37 UTC] PHP Parse error:  syntax error, unexpected '$yt' (T_VARIABLE) in /home/crazysm1/public_html/app/demo1/index.php on line 10
